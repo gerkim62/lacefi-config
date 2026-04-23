@@ -1,3 +1,4 @@
 {
-  "api_url": "https://autofill.lacefi.co.ke"
+  "api_url": "https://autofill.lacefi.co.ke",
+  "ghost_mode_force_reveal_url": "https://guide.lacefi.co.ke/force-reveal.html"
 }
