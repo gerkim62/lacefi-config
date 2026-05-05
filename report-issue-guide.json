@@ -2,19 +2,19 @@
   {
     "category": "license_or_credits_issue",
     "title": "Paid but credits or license did not reflect?",
-    "description": "Your payment may have completed successfully, but your license key or credits may not have reflected in the extension yet.",
+    "description":"It's worth double-checking that the payment went through on your end — sometimes transactions don't complete fully.",
     "helperText": "Use the *Retrieve License Key* button in the widget to recover the license and credits linked to your payment."
   },
   {
     "category": "incorrect_response",
-    "title": "Incorrect answer or poor answer quality?",
-    "description": "The answer may be incomplete, misleading, or not aligned with your course context.",
+    "title": "Incorrect answer?",
+    "description": "LaceFi answers based on general knowledge by default. Adding your course notes helps it give answers that match your specific material.",
     "helperText": "Upload your notes in the *Notes tab* and try again."
   },
   {
     "category": "notes_resources_upload_issue",
     "title": "Notes or resources upload problem?",
-    "description": "Your notes or course resources may not have uploaded, synced, or been used during answer generation as expected.",
+    "description": "Uploads can fail silently if the file is too large, in an unsupported format, or if your connection dropped mid-upload.",
     "helperText": "Retry the upload from the *Notes tab* and note which file or resource failed and what happened."
   }
 ]
