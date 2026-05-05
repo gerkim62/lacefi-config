@@ -1,26 +1,20 @@
 [
   {
-    "category": "payment_issue",
-    "title": "Payment stuck or not completing?",
-    "description": "Your payment may still be processing, or you experienced an error when attempting to purchase credits.",
-    "helperText": "Before reporting, confirm whether the payment actually went through and whether the page updated after a short wait."
-  },
-  {
     "category": "license_or_credits_issue",
     "title": "Paid but credits or license did not reflect?",
     "description": "Your payment may have completed successfully, but your license key or credits may not have reflected in the extension yet.",
-    "helperText": "Before reporting, use the Retrieve License Key button in the widget to recover the license and credits linked to your payment."
+    "helperText": "Use the *Retrieve License Key* button in the widget to recover the license and credits linked to your payment."
   },
   {
     "category": "incorrect_response",
     "title": "Incorrect answer or poor answer quality?",
     "description": "The answer may be incomplete, misleading, or not aligned with your course context.",
-    "helperText": "Before reporting, upload your notes in the Notes tab and try again."
+    "helperText": "Upload your notes in the *Notes tab* and try again."
   },
   {
     "category": "notes_resources_upload_issue",
     "title": "Notes or resources upload problem?",
     "description": "Your notes or course resources may not have uploaded, synced, or been used during answer generation as expected.",
-    "helperText": "Before reporting, retry the upload from the Notes tab and note which file or resource failed and what happened after you tried."
+    "helperText": "Retry the upload from the *Notes tab* and note which file or resource failed and what happened."
   }
 ]
