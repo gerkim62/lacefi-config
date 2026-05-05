@@ -15,30 +15,12 @@
     "category": "incorrect_response",
     "title": "Incorrect answer or poor answer quality?",
     "description": "The answer may be incomplete, misleading, or not aligned with your course context.",
-    "helperText": "Before reporting, upload your notes in the Notes tab and try again. If you still report it, mention the question, the expected answer, and why the result was wrong or weak."
-  },
-  {
-    "category": "question_detection_or_type_issue",
-    "title": "Question not detected or unsupported type?",
-    "description": "The extension may not have recognized the question correctly, especially if the question type or structure is unusual.",
-    "helperText": "Before reporting, note what kind of question it was and what the extension did instead."
-  },
-  {
-    "category": "autofill_action_failed",
-    "title": "Autofill selected the wrong thing?",
-    "description": "The extension may have filled the wrong option or interacted with the page incorrectly.",
-    "helperText": "Please report this and include whether the generated answer itself was correct, whether the fill action was wrong, and what the extension selected instead."
+    "helperText": "Before reporting, upload your notes in the Notes tab and try again."
   },
   {
     "category": "notes_resources_upload_issue",
     "title": "Notes or resources upload problem?",
     "description": "Your notes or course resources may not have uploaded, synced, or been used during answer generation as expected.",
     "helperText": "Before reporting, retry the upload from the Notes tab and note which file or resource failed and what happened after you tried."
-  },
-  {
-    "category": "app_stuck_slow_or_server_error",
-    "title": "App stuck, slow, or showing server errors?",
-    "description": "The extension or backend may be hanging, responding slowly, or failing during a request.",
-    "helperText": "Please report this and include the exact error message if you saw one, or describe exactly where the app got stuck or slowed down."
   }
 ]
