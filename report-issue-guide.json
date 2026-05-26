@@ -18,7 +18,7 @@
     "helperText": "Retry the upload from the *Notes tab* and note which file or resource failed and what happened."
   },
   {
-    "category": " payment_issue",
+    "category": "payment_issue",
     "title": "Did not receive OTP?",
     "description": "Please confirm that the email address you entered is correct. Sometimes OTP emails may take a few minutes to arrive.",
     "helperText": "Check your Spam, Junk, or Promotions folder and retry sending the OTP if needed."
